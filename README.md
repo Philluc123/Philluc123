@@ -1,4 +1,4 @@
-## Its a pleasure to meet you, I'm Philippe (﹙˓ 📟 ˒﹚)
+## Hello, I'm Philippe (﹙˓ 📟 ˒﹚)
 
 🏫  I'm a Senior majoring in Software Engineering at Florida Gulf Coast University</br>
 📲  I've been helping to develop a social media application for almost 2 years!</br>
